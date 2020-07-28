@@ -1,11 +1,11 @@
-baseURL = "https://dhammacharts.org/"
+baseURL = "https://dhammacharts.com/"
 languageCode = "en-us"
 title = "Dhamma Charts"
 theme = "basicwebtheme"
 
 [params]
 headerImage = "/assets/images/header.svg"
-
+mainSections = ["lists"]
 
 [[menu.main]]
 title = "Home"
