@@ -1,0 +1,20 @@
+baseURL = "https://dhammacharts.org/"
+languageCode = "en-us"
+title = "Dhamma Charts"
+theme = "basicwebtheme"
+
+[params]
+headerImage = "/assets/images/header.svg"
+
+
+[[menu.main]]
+title = "Home"
+name = "The homepage"
+url = "/"
+weight = 1
+
+[[menu.main]]
+title = "About"
+name = "About page"
+url = "/about"
+weight = 2
